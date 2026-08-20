@@ -1,2 +1,8 @@
-# mural-da-turma
-Atividade prática de Versionamento de Código – Semanas 15, 16 e 17
+# Mural da Turma
+Bem-vindos ao nosso mural!
+## Avisos
+Nenhum aviso cadastrado ainda.
+
+5 / 33
+
+## Desenvolvedores
