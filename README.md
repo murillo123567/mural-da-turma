@@ -6,4 +6,5 @@ Nenhum aviso cadastrado ainda.
 5 / 33
 
 ## Desenvolvedores
-murillo
+murillo gonnelli grupillo ribeiro
+
